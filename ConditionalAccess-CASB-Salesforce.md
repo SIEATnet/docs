@@ -5,11 +5,11 @@ parent: Test
 nav_order: 1
 description: ""
 ---
-#SIEAT.net Demo Updates
+# SIEAT.net Demo Updates
 ## Conditional access – CASB access to Salesforce from unmanaged device – download file – protect file
 Maria accesses Salesforce through myapps portal with SSO on her managed device.
- 
- 
+![Maria myapps portal](/assets/images/ca-casb-sf-01.png "Maria myapps portal")
+![Maria Salesforce](/assets/images/ca-casb-sf-02.png "Maria Salesforce")
 Please make sure, that you point out, that no CASB is used, because a managed device is used. Please navigate to Files in Salesforce. Maria has stored some relevant data there. Try to download one of the two Word files and the Excel file. Should work without hassle.
  
  

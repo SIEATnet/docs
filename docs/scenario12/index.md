@@ -10,7 +10,7 @@ has_children: true
 
 ![](/assets/images/scenario12/Scenario12_01.PNG "Scenario 12")
 
-Maria accesses her Exchange Mailbox with a fully managed Android Enterprise tablet and the automatically Outlook Mobile client.
+Maria accesses her Exchange Mailbox with a unmanaged BYOD Android tablet.
 
 
 {: .fs-6 .fw-300 }

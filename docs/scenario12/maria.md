@@ -7,18 +7,24 @@ nav_order: 1
 
 # Maria's Experience
 
-![](/assets/images/scenario12/Scenario12_03.png "")
+Tablet is installed with standard out-of-box experience
+![](/assets/images/scenario12/Scenario12_03.PNG "Android 7")
 
-![](/assets/images/scenario12/Scenario12_04.png "")
+Maria tries to setup mail account in Gmail
+![](/assets/images/scenario12/Scenario12_04.PNG "Gmail signup 01")
 
-![](/assets/images/scenario12/Scenario12_05.png "")
+![](/assets/images/scenario12/Scenario12_05.PNG "Gmail signup 02")
 
-![](/assets/images/scenario12/Scenario12_06.png "")
+Access to mailbox data fails
+![](/assets/images/scenario12/Scenario12_06.PNG "No mailbox access")
 
-![](/assets/images/scenario12/Scenario12_07.png "")
+Maria installs Outlook Mobile
+![](/assets/images/scenario12/Scenario12_07.PNG "Install Outlook Mobile")
 
-![](/assets/images/scenario12/Scenario12_08.png "")
+Outlook Mobile uses modern authentication
+![](/assets/images/scenario12/Scenario12_08.PNG "Outlook Mobile uses modern authentication 01")
 
-![](/assets/images/scenario12/Scenario12_09.png "")
+![](/assets/images/scenario12/Scenario12_09.PNG "Outlook Mobile uses modern authentication 02")
 
-![](/assets/images/scenario12/Scenario12_10.png "")
+Maria can access her mailbox in Outlook Mobile
+![](/assets/images/scenario12/Scenario12_10.PNG "Access to mailbox")

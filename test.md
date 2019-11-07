@@ -1,17 +1,11 @@
 ---
 layout: default
-title: Test
+title: Introduction
 nav_order: 1
 has_children: 1
 description: ""
 ---
 
-# Überschrift 1
-irgendwas von text
+# Introduction
+This is the landing page for SIEAT.net's delivery documentation. You can find all screenshots with respective comments via the navigation on the left hand side.
 
-## Überschrift 2
-noch was von test text
-
-bla
-bla
-bla

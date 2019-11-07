@@ -5,6 +5,8 @@ parent: 12 - Accessing corporate data via unmanaged Android device
 nav_order: 1
 ---
 
+![](/assets/images/scenario12/Scenario12_02.PNG "Maria's Experience")
+
 # Maria's Experience
 
 Tablet is installed with standard out-of-box experience

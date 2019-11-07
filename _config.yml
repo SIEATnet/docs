@@ -15,5 +15,5 @@ search_enabled: true
 search_tokenizer_separator: /[\s/]+/
 
 # Footer content appears at the bottom of every page's main content
-footer_content: "Content put together by Markus Schellenberger and Klaus Harrer-Nemecek<br>Page Layout &copy; 2017-2019 Patrick Marsceill. Distributed by an <a href=\"https://github.com/pmarsceill/just-the-docs/tree/master/LICENSE.txt\">MIT license.</a>"
+footer_content: "Content put together by Markus Schellenberger and Klaus Harrer-Nemecek.<br>Page Layout &copy; 2017-2019 Patrick Marsceill. Distributed by an <a href=\"https://github.com/pmarsceill/just-the-docs/tree/master/LICENSE.txt\">MIT license.</a>"
 

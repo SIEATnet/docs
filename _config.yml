@@ -1,4 +1,15 @@
-title: "Security Immersion Experience Austria - SIEAT.net"
+title: "SIEAT.net"
+description: Security Immersion Experience Austria
 remote_theme: pmarsceill/just-the-docs
-color_scheme: "dark"
-search_enabled: false
+
+# Set a path/url to a logo that will be displayed instead of the title
+logo: "/assets/images/banner_sieatnet_flag.png"
+
+# Color scheme currently only supports "dark" or nil (default)
+color_scheme: nil
+
+# Enable or disable the site search
+search_enabled: true
+
+# Set the search token separator for hyphenated-word search:
+search_tokenizer_separator: /[\s/]+/

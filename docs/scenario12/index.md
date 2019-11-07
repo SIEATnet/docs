@@ -10,5 +10,4 @@ has_children: true
 
 Maria accesses her Exchange Mailbox with a fully managed Android Enterprise tablet and the automatically Outlook Mobile client.
 
-
 {: .fs-6 .fw-300 }

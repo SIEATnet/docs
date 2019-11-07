@@ -6,7 +6,7 @@ remote_theme: pmarsceill/just-the-docs
 logo: "/assets/images/banner_sieatnet_flag.png"
 
 # Color scheme currently only supports "dark" or nil (default)
-color_scheme: nil
+#color_scheme: nil
 
 # Enable or disable the site search
 search_enabled: true

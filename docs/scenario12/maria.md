@@ -7,7 +7,7 @@ nav_order: 1
 
 # Maria's Experience
 
-![](/assets/images/scenario12/Scenario12_03.png "")
+![scenario12_03](/assets/images/scenario12/Scenario12_03.png "scenario12_03")
 
 ![](/assets/images/scenario12/Scenario12_04.png "")
 

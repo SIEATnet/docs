@@ -17,7 +17,7 @@ nav_order: 2
 ---
 
 ## URL is blocked on client
-Maria is trying to browse to youtube.com and is being blocked based on the Indicator
+Maria is trying to browse to youtube.com and is being blocked based on the indicator.
 
 ![](/assets/images/scenario10/Scenario10_08.PNG "URL is blocked on client")
 

@@ -16,14 +16,14 @@ nav_order: 3
 
 ---
 
-## Device Management Portal
+## Alert in Defender Security Center
 
-In the device management portal the admin has enabled Android Enterprise enrollment.
+The Security Admin gets an alert in the Defender Security Center.
 
-![](/assets/images/scenario11/Scenario11_08.PNG "Device Management Portal")
+![](/assets/images/scenario10/Scenario10_10.PNG "Alert in Defender Security Center")
 
-## Intune App Management
+## Alert Details
 
-Additionally the admin has set up the relationship between Intune and Managed Google Play store. After selecting and assigning the required apps, these apps were deployed to Maria’s device automatically.
+The Security Admin can explore all the alert details.
 
-![](/assets/images/scenario11/Scenario11_09.PNG "Intune App Management")
+![](/assets/images/scenario10/Scenario10_11.PNG "Alert Details")

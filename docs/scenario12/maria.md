@@ -8,7 +8,7 @@ nav_order: 1
 # Maria's Experience
 
 ## Tablet is installed with standard out-of-box experience
-![](/assets/images/scenario12/Scenario12_03.PNG "")
+![android enterprise](/assets/images/scenario12/Scenario12_03.PNG "")
 
 ## Maria tries to setup mail account in Gmail
 ![](/assets/images/scenario12/Scenario12_04.PNG "")

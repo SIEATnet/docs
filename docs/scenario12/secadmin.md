@@ -8,4 +8,4 @@ nav_order: 2
 # Security Admin's Experience
 
 ## Security Admin accesses Sign-in reports
-![](/assets/images/scenario12/Scenario12_15.PNG "")
+![](/assets/images/scenario12/Scenario12_15.PNG "Azure AD sign-in reports")

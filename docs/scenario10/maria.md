@@ -1,8 +1,8 @@
 ---
 layout: default
 title: Maria's Experience
-parent: 11 - Accessing corporate data via fully managed Android Enterprise device
-nav_order: 1
+parent: 10 - Block malicious URLs via MDATP
+nav_order: 2
 ---
 
 # Maria's Experience
@@ -16,17 +16,8 @@ nav_order: 1
 
 ---
 
-## Android Enterprise
-Maria uses a fully managed Android Enterprise tablet. All necessary apps were pushed to this device automatically. Her corporate identity was automatically deployed to the device while enrollment, so no further need to sign-in required.
+## URL is blocked on client
+Maria is trying to browse to youtube.com and is being blocked based on the Indicator
 
-![](/assets/images/scenario11/Scenario11_03.PNG "Android Enterprise")
+![](/assets/images/scenario10/Scenario10_08.PNG "URL is blocked on client")
 
-## Outlook Mobile
-Maria can use Outlook Mobile the same way as she does on the PC. Even the latest mail from Josef including sensitivity labeling and encryption is displayed correctly.
-
-![](/assets/images/scenario11/Scenario11_04.PNG "Outlook Mobile")
-
-## Word Mobile
-She can even open and edit the attached, labeled and encrypted Word document on her mobile device.
-
-![](/assets/images/scenario11/Scenario11_05.PNG "Word Mobile")

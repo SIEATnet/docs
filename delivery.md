@@ -7,5 +7,8 @@ description: ""
 ---
 
 # Introduction
-This is the landing page for SIEAT.net's delivery documentation. You can find all screenshots with respective comments via the navigation on the left hand side.
+
+![](/assets/images/title.PNG "Security Immersion Experience")
+
+This is the landing page for SIEAT.net's delivery documentation. You can find  screenshots of all shown scenarios with respective comments via the navigation on the left hand side.
 

@@ -8,7 +8,7 @@ has_children: true
 
 # Microsoft Information Protection
 
-![](/assets/images/scenario06/Scenario06_01.PNG "Scenario 07")
+![](/assets/images/scenario06/Scenario06_01.PNG "Scenario 06")
 
 Label and encrypt documents and emails.
 

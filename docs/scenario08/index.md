@@ -8,7 +8,7 @@ has_children: true
 
 # Accidentially sharing information to non-corporate ressources
 
-![](/assets/images/scenario08/Scenari08_01.PNG "Scenario 08")
+![](/assets/images/scenario08/Scenario08_01.PNG "Scenario 08")
 
 Uploading corporate documents to Dropbox and sharing content from protected files in Twitter.
 

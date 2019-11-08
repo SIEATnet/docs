@@ -20,16 +20,16 @@ nav_order: 2
 
 In the device management portal the Security Admin is able to create a WIP Policy with Intune’s App Protection, choosing which Apps should be protected.
 
-![](/assets/images/scenario11/Scenario08_10.PNG "Device Management Portal")
+![](/assets/images/scenario08/Scenario08_10.PNG "Device Management Portal")
 
 ## Intune App Protection - Required settings
 
 Security is also able to choose if the user is allowed to override the policy.
 
-![](/assets/images/scenario11/Scenario08_11.PNG "Intune App Protection - Required settings")
+![](/assets/images/scenario08/Scenario08_11.PNG "Intune App Protection - Required settings")
 
 ## Intune App Protection - Advanced settings
 
 Further Customization can be made, e.g. Network Boundaries, Proxy Servers, Showing Icon, etc.
 
-![](/assets/images/scenario11/Scenario08_12.PNG "Intune App Protection - Advanced settings")
+![](/assets/images/scenario08/Scenario08_12.PNG "Intune App Protection - Advanced settings")

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: 10 - Block malicious URLs via MDATP
+title: Block malicious URLs via MDATP
 nav_order: 10
 has_children: true
 #permalink: /docs/ui-components

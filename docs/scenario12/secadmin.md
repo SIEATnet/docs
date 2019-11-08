@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Security Admin's Experience
-parent: 12 - Accessing corporate data via unmanaged Android device
+parent: Accessing corporate data via unmanaged Android device
 nav_order: 2
 ---
 

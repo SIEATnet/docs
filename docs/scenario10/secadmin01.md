@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Security Admin's Experience Step 1
-parent: 10 - Block malicious URLs via MDATP
+parent: Block malicious URLs via MDATP
 nav_order: 1
 ---
 

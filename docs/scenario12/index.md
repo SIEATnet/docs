@@ -1,6 +1,6 @@
 ---
 layout: default
-title: 12 - Accessing corporate data via unmanaged Android device
+title: Accessing corporate data via unmanaged Android device
 nav_order: 12
 has_children: true
 #permalink: /docs/ui-components

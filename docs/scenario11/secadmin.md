@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Security Admin's Experience
-parent: 11 - Accessing corporate data via fully managed Android Enterprise device
+parent: Accessing corporate data via fully managed Android Enterprise device
 nav_order: 2
 ---
 

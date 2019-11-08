@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Accidentially sharing information to non-corporate ressources
-nav_order: 08
+nav_order: 8
 has_children: true
 #permalink: /docs/ui-components
 ---

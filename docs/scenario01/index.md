@@ -8,7 +8,7 @@ has_children: true
 
 # The Rubber Ducky Attack
 
-![](/assets/images/scenario06/Scenario06_01.PNG "Scenario 06")
+![](/assets/images/scenario01/Scenario01_01.PNG "Scenario 06")
 
 USB Keyboard-like Attack 
 

@@ -8,9 +8,9 @@ has_children: true
 
 # Phishing Attack
 
-![](/assets/images/scenario06/Scenario06_01.PNG "Scenario 06")
+![](/assets/images/scenario04/Scenario04_01.PNG "Scenario 06")
 
-Label and encrypt documents and emails.
+an Attacker is trying to phish for Users Credentials
 
 
 

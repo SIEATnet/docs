@@ -19,5 +19,5 @@ nav_order: 1
 ## Josef requests document from Maria via Teams
 Josef requests the latest marketing plan from Maria via Teams. Maria submits a link to the document from here OneDrive for Business.
 
-![](/assets/images/scenario06/Scenario06_03.PNG "Josef requests document from Maria via Teams")
+![](/assets/images/scenario04/Scenario04_03.PNG "Josef requests document from Maria via Teams")
 

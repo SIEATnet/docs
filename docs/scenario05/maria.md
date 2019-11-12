@@ -16,8 +16,11 @@ nav_order: 1
 
 ---
 
-## Josef requests document from Maria via Teams
-Josef requests the latest marketing plan from Maria via Teams. Maria submits a link to the document from here OneDrive for Business.
+## Maria invites a Guest User
+while working in Microsoft Teams, Maria is able to invite Guest Users based on their eMail Address
 
-![](/assets/images/scenario06/Scenario06_03.PNG "Josef requests document from Maria via Teams")
+![](/assets/images/scenario05/Scenario05_67.PNG "Maria invites a Guest User")
 
+![](/assets/images/scenario05/Scenario05_68.PNG "Maria invites a Guest User")
+
+![](/assets/images/scenario05/Scenario05_69.PNG "Maria invites a Guest User")

@@ -16,8 +16,12 @@ nav_order: 2
 
 ---
 
-## Josef receives link to document
-Josef receives link to file from Maria and opens it in Word Desktop App.
+## Josef receives link via Mail
+Josef received the same eMail, and his Link is has not been rewritten
 
-![](/assets/images/scenario04/Scenario04_05.PNG "Josef receives link to document")
+![](/assets/images/scenario04/Scenario04_60.PNG "Josef received link")
 
+## Josef follows the Link
+following the Link reveals a Website that looks like a legit Google Login Page
+
+![](/assets/images/scenario04/Scenario04_61.PNG "following the Link")

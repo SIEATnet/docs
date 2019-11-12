@@ -16,23 +16,17 @@ nav_order: 3
 
 ---
 
-## Definition of sensitive information types
-Office 365 Security & Compliance Portal > Classification > Sensitive info types
-"What information are we looking for?"
+## enabling Guest Access to Microsoft Teams
+The Security Admin is enabling Guest Access to Teams via the Microsoft Teams Admin Center
 
-![](/assets/images/scenario06/Scenario06_11.PNG "Definition of sensitive information types")
+![](/assets/images/scenario05/Scenario06_85.PNG "Teams Admin Center")
 
-## Definition of sensitivity labels
-Sensitivity labels: "How to treat sensitive information?"
+## Setting up Conditional Access
+The Security Admin is setting up Conditional Access for all Cloud Apps.
+All Guest Users are required to use MFA for Teams, Salesforce and Sharepoint
 
-![](/assets/images/scenario06/Scenario06_12.PNG "Definition of sensitivity labels")
+![](/assets/images/scenario05/Scenario06_86.PNG "CA1")
 
-## Definition of sensitivity labels > Content marking
-Define how sensitive content is marked.
+![](/assets/images/scenario05/Scenario06_87.PNG "CA2")
 
-![](/assets/images/scenario06/Scenario06_13.PNG "Content marking")
-
-## Definition of sensitivity labels > Auto labeling
-Define how to apply Sensitivity labels automatically.
-
-![](/assets/images/scenario06/Scenario06_14.PNG "Auto labeling")
+![](/assets/images/scenario05/Scenario06_88.PNG "CA1")

@@ -8,9 +8,9 @@ has_children: true
 
 # Teams Guest Access
 
-![](/assets/images/scenario06/Scenario06_01.PNG "Scenario 06")
+![](/assets/images/scenario05/Scenario05_65.PNG "Scenario 06")
 
-Label and encrypt documents and emails.
+Inviting Guest Users via Microsoft Teams
 
 
 

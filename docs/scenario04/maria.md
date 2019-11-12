@@ -16,8 +16,15 @@ nav_order: 1
 
 ---
 
-## Josef requests document from Maria via Teams
-Josef requests the latest marketing plan from Maria via Teams. Maria submits a link to the document from here OneDrive for Business.
+## Maria is working in Outlook
 
-![](/assets/images/scenario04/Scenario04_03.PNG "Josef requests document from Maria via Teams")
+while working in Outlook, Maria is hovering over a Link provided in an eMail she recieved.
+She can see, that Office ATP has rewritten the Link...
 
+![](/assets/images/scenario04/Scenario04_57.PNG "viewing Link's in eMail")
+
+## following the Link
+
+Maria clicks on the Link. Office 365 ATP has blocked the Link based on Commpany's Policies
+
+![](/assets/images/scenario04/Scenario04_58.PNG "O365ATP blocking Link")

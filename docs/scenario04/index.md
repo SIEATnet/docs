@@ -8,7 +8,7 @@ has_children: true
 
 # Phishing Attack
 
-![](/assets/images/scenario04/Scenario04_01.PNG "Scenario 06")
+![](/assets/images/scenario04/Scenario04_55.PNG "Scenario 06")
 
 an Attacker is trying to phish for Users Credentials
 

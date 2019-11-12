@@ -16,9 +16,12 @@ nav_order: 3
 
 ---
 
-## Definition of sensitive information types
-Office 365 Security & Compliance Portal > Classification > Sensitive info types
-"What information are we looking for?"
+## Office 365 Security & Compliance Portal
+The Security Admin can navigate to the O365 S&C Portal, and use the Threat Management Pane to configure Settings
 
-![](/assets/images/scenario04/Scenario04_11.PNG "Definition of sensitive information types")
+![](/assets/images/scenario04/Scenario04_63.PNG "Threat Management")
 
+## Office 365 Threat Management Policies
+within Threat Management, the Security Admin can configure Policies for Safe Attachments and Safe Links
+
+![](/assets/images/scenario04/Scenario04_64.PNG "Policy")

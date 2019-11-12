@@ -1,11 +1,11 @@
 ---
 layout: default
-title: Josef's Experience
+title: Guest User Experience
 parent: Teams Guest Access
 nav_order: 2
 ---
 
-# Josef's Experience
+# Guest User Experience
 {: .no_toc }
 
 ## Table of contents
@@ -16,27 +16,43 @@ nav_order: 2
 
 ---
 
-## Josef receives link to document
-Josef receives link to file from Maria and opens it in Word Desktop App.
+## Guest receives Invitation to SIEAT.net
+The Guest users receives the Invitation to join SIEAT.net
 
-![](/assets/images/scenario06/Scenario06_05.PNG "Josef receives link to document")
+![](/assets/images/scenario05/Scenario06_71.PNG "Guest eMail")
 
-## No Sensitivity label applied
-Currently no Sensitivity label is applied in Word.
+## reviewing Permissions
+The Guest users must Accept the required Permissions from SIEAT.net, before he can join with his Account
 
-![](/assets/images/scenario06/Scenario06_06.PNG "No Sensitivity label applied")
+![](/assets/images/scenario05/Scenario06_72.PNG "review permissions")
 
-## Sensitive content added
-Sensitive content (“Tannenbaum”) was added.
+## Access to Teams is being monitored
+Before the Guest User can join SIEAT.net, all his Trafic will be routet through Microsoft's Cloud App Security.
 
-![](/assets/images/scenario06/Scenario06_07.PNG "Sensitive content added")
+![](/assets/images/scenario05/Scenario06_73.PNG "MCAS Proxy")
 
-## Josef saves his edits
-Josef saves the file to his OneDrive for Business.
+## MFA Setup
+The Guest is required to Setup MFA
 
-![](/assets/images/scenario06/Scenario06_08.PNG "Josef saves his edits")
+![](/assets/images/scenario05/Scenario06_74.PNG "MFA Setup")
 
-## Automatic application of sensitivity label
-A sensitivity label was automatically applied and watermarks were added.
+![](/assets/images/scenario05/Scenario06_75.PNG "MFA Setup")
 
-![](/assets/images/scenario06/Scenario06_09.PNG "Automatic application of sensitivity label")
+![](/assets/images/scenario05/Scenario06_76.PNG "MFA Setup")
+
+![](/assets/images/scenario05/Scenario06_77.PNG "MFA Setup")
+
+![](/assets/images/scenario05/Scenario06_78.PNG "MFA Setup")
+
+![](/assets/images/scenario05/Scenario06_79.PNG "MFA Setup")
+
+![](/assets/images/scenario05/Scenario06_80.PNG "MFA Setup")
+
+![](/assets/images/scenario05/Scenario06_81.PNG "MFA Setup")
+
+![](/assets/images/scenario05/Scenario06_82.PNG "MFA Setup")
+
+## Accessing Teams
+After seting up MFA, the Guest User is now able to work in Teams
+
+![](/assets/images/scenario05/Scenario06_83.PNG "accessing Teams")

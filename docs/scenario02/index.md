@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Single Sign On
-nav_order: 2
+nav_order: 4
 has_children: true
 #permalink: /docs/ui-components
 ---

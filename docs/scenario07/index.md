@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Blocking AIP labled mails to be sent to external users
-nav_order: 7
+nav_order: 9
 has_children: true
 #permalink: /docs/ui-components
 ---

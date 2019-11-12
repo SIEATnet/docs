@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Accessing corporate data via fully managed Android Enterprise device
-nav_order: 11
+nav_order: 12
 has_children: true
 #permalink: /docs/ui-components
 ---

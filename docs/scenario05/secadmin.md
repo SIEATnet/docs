@@ -19,7 +19,7 @@ nav_order: 3
 ## enabling Guest Access to Microsoft Teams
 The Security Admin is enabling Guest Access to Teams via the Microsoft Teams Admin Center
 
-![](/assets/images/scenario05/Scenario06_85.PNG "Teams Admin Center")
+![](/assets/images/scenario05/Scenario05_85.PNG "Teams Admin Center")
 
 ## Setting up Conditional Access
 The Security Admin is setting up Conditional Access for all Cloud Apps.

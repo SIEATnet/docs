@@ -55,4 +55,4 @@ The Guest is required to Setup MFA
 ## Accessing Teams
 After seting up MFA, the Guest User is now able to work in Teams
 
-![](/assets/images/scenario05/Scenario06_83.PNG "accessing Teams")
+![](/assets/images/scenario05/Scenario05_83.PNG "accessing Teams")

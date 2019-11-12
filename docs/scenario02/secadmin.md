@@ -1,8 +1,8 @@
 ---
 layout: default
 title: Security Admin's Experience
-parent: Microsoft Information Protection
-nav_order: 3
+parent: Single Sign On
+nav_order: 2
 ---
 
 # Security Admin's Experience
@@ -16,23 +16,11 @@ nav_order: 3
 
 ---
 
-## Definition of sensitive information types
-Office 365 Security & Compliance Portal > Classification > Sensitive info types
-"What information are we looking for?"
+## Providing Single Sign On using Azure AD
+The Company is able to deploy Single Sign On for multiple Apps, including On-Premises Apps using the Azure AD.
 
-![](/assets/images/scenario06/Scenario06_11.PNG "Definition of sensitive information types")
+![](/assets/images/scenario02/Scenario02_06.PNG "Providing Single Sign On for Salesforce")
 
-## Definition of sensitivity labels
-Sensitivity labels: "How to treat sensitive information?"
+![](/assets/images/scenario02/Scenario02_07.PNG "Authentication in Salesforce")
 
-![](/assets/images/scenario06/Scenario06_12.PNG "Definition of sensitivity labels")
-
-## Definition of sensitivity labels > Content marking
-Define how sensitive content is marked.
-
-![](/assets/images/scenario06/Scenario06_13.PNG "Content marking")
-
-## Definition of sensitivity labels > Auto labeling
-Define how to apply Sensitivity labels automatically.
-
-![](/assets/images/scenario06/Scenario06_14.PNG "Auto labeling")
+![](/assets/images/scenario02/Scenario02_08.PNG "Branding")

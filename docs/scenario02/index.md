@@ -8,9 +8,9 @@ has_children: true
 
 # Single Sign On
 
-![](/assets/images/scenario06/Scenario06_01.PNG "Scenario 06")
+![](/assets/images/scenario02/Scenario02_01.PNG "Scenario 06")
 
-Label and encrypt documents and emails.
+Single Sign On to all SaaS Application with Azure AD's MyApps Portal
 
 
 

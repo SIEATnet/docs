@@ -16,8 +16,22 @@ nav_order: 1
 
 ---
 
-## Josef requests document from Maria via Teams
-Josef requests the latest marketing plan from Maria via Teams. Maria submits a link to the document from here OneDrive for Business.
+## Maria is using AAD's MyApps Portal
+Maria is using the Azure AD's MyApps Portal to single-sign On to Salesforce
 
-![](/assets/images/scenario06/Scenario06_03.PNG "Josef requests document from Maria via Teams")
+![](/assets/images/scenario02/Scenario02_02.PNG "Logging in to Salesforce")
 
+## Maria is beeing logged on to Salesforce
+Maria has been automatically logged on to Salesforce, after following the link in MyApps
+
+![](/assets/images/scenario02/Scenario02_03.PNG "Salesforce")
+
+## Logging in to Twitter
+Maria is using the Azure AD's MyApps Portal to single-sign On to Twitter
+
+![](/assets/images/scenario02/Scenario02_04.PNG "Logging in to Twitter")
+
+## Maria is beeing logged on to Twitter
+Maria has been automatically logged on to Twitter, after following the link in MyApps
+
+![](/assets/images/scenario02/Scenario02_05.PNG "Twitter")

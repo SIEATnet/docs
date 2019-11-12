@@ -34,23 +34,23 @@ Before the Guest User can join SIEAT.net, all his Trafic will be routet through 
 ## MFA Setup
 The Guest is required to Setup MFA
 
-![](/assets/images/scenario05/Scenario06_74.PNG "MFA Setup")
+![](/assets/images/scenario05/Scenario05_74.PNG "MFA Setup")
 
-![](/assets/images/scenario05/Scenario06_75.PNG "MFA Setup")
+![](/assets/images/scenario05/Scenario05_75.PNG "MFA Setup")
 
-![](/assets/images/scenario05/Scenario06_76.PNG "MFA Setup")
+![](/assets/images/scenario05/Scenario05_76.PNG "MFA Setup")
 
-![](/assets/images/scenario05/Scenario06_77.PNG "MFA Setup")
+![](/assets/images/scenario05/Scenario05_77.PNG "MFA Setup")
 
-![](/assets/images/scenario05/Scenario06_78.PNG "MFA Setup")
+![](/assets/images/scenario05/Scenario05_78.PNG "MFA Setup")
 
-![](/assets/images/scenario05/Scenario06_79.PNG "MFA Setup")
+![](/assets/images/scenario05/Scenario05_79.PNG "MFA Setup")
 
-![](/assets/images/scenario05/Scenario06_80.PNG "MFA Setup")
+![](/assets/images/scenario05/Scenario05_80.PNG "MFA Setup")
 
-![](/assets/images/scenario05/Scenario06_81.PNG "MFA Setup")
+![](/assets/images/scenario05/Scenario05_81.PNG "MFA Setup")
 
-![](/assets/images/scenario05/Scenario06_82.PNG "MFA Setup")
+![](/assets/images/scenario05/Scenario05_82.PNG "MFA Setup")
 
 ## Accessing Teams
 After seting up MFA, the Guest User is now able to work in Teams

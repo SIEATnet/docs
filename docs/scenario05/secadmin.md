@@ -25,8 +25,8 @@ The Security Admin is enabling Guest Access to Teams via the Microsoft Teams Adm
 The Security Admin is setting up Conditional Access for all Cloud Apps.
 All Guest Users are required to use MFA for Teams, Salesforce and Sharepoint
 
-![](/assets/images/scenario05/Scenario06_86.PNG "CA1")
+![](/assets/images/scenario05/Scenario05_86.PNG "CA1")
 
-![](/assets/images/scenario05/Scenario06_87.PNG "CA2")
+![](/assets/images/scenario05/Scenario05_87.PNG "CA2")
 
-![](/assets/images/scenario05/Scenario06_88.PNG "CA1")
+![](/assets/images/scenario05/Scenario05_88.PNG "CA1")

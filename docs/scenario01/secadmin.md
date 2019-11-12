@@ -20,19 +20,19 @@ nav_order: 3
 Office 365 Security & Compliance Portal > Classification > Sensitive info types
 "What information are we looking for?"
 
-![](/assets/images/scenario06/Scenario06_11.PNG "Definition of sensitive information types")
+![](/assets/images/scenario01/Scenario06_11.PNG "Definition of sensitive information types")
 
 ## Definition of sensitivity labels
 Sensitivity labels: "How to treat sensitive information?"
 
-![](/assets/images/scenario06/Scenario06_12.PNG "Definition of sensitivity labels")
+![](/assets/images/scenario01/Scenario06_12.PNG "Definition of sensitivity labels")
 
 ## Definition of sensitivity labels > Content marking
 Define how sensitive content is marked.
 
-![](/assets/images/scenario06/Scenario06_13.PNG "Content marking")
+![](/assets/images/scenario01/Scenario06_13.PNG "Content marking")
 
 ## Definition of sensitivity labels > Auto labeling
 Define how to apply Sensitivity labels automatically.
 
-![](/assets/images/scenario06/Scenario06_14.PNG "Auto labeling")
+![](/assets/images/scenario01/Scenario06_14.PNG "Auto labeling")

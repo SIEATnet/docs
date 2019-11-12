@@ -16,23 +16,37 @@ nav_order: 3
 
 ---
 
-## Definition of sensitive information types
-Office 365 Security & Compliance Portal > Classification > Sensitive info types
-"What information are we looking for?"
+## Microsoft Defender ATP raised an Alert
+MDATP raised an Alert based on the Findings of Josef's and Maria's Machine
 
-![](/assets/images/scenario06/Scenario06_11.PNG "Definition of sensitive information types")
+![](/assets/images/scenario03/Scenario03_47.PNG "MDATP Alert")
 
-## Definition of sensitivity labels
-Sensitivity labels: "How to treat sensitive information?"
+## Microsoft Defender ATP automatically started investigating Josef's Machine
+After the Alert has been raised, MDATP starts investigating Josef's Machine
 
-![](/assets/images/scenario06/Scenario06_12.PNG "Definition of sensitivity labels")
+![](/assets/images/scenario03/Scenario03_48.PNG "AIRS in Action")
 
-## Definition of sensitivity labels > Content marking
-Define how sensitive content is marked.
+## Microsoft Defender ATP found malicious Content
+AIRS (Automated Incident Response System) found the malicious Document on Josef's Machine
 
-![](/assets/images/scenario06/Scenario06_13.PNG "Content marking")
+![](/assets/images/scenario03/Scenario03_49.PNG "MDATP malicious File")
 
-## Definition of sensitivity labels > Auto labeling
-Define how to apply Sensitivity labels automatically.
+## Office 365 ATP detonated the File
+The File Maria received has been detonated by O365ATP
 
-![](/assets/images/scenario06/Scenario06_14.PNG "Auto labeling")
+![](/assets/images/scenario03/Scenario03_50.PNG "O365ATP Detonation")
+
+## Office 365 ATP AIRS
+Office 365 ATP also starts to automatically investigate....
+
+![](/assets/images/scenario03/Scenario03_51.PNG "O365ATP AIRS")
+
+## Office 365 ATP requires Approval
+Office 365 ATP can use ZAP to remove the Mail from all targeted User's Mailboxes automatically...
+
+![](/assets/images/scenario03/Scenario03_52.PNG "O365ATP ZAP")
+
+## Office 365 ATP ZAP Approved
+The Administrator approves the Action, and Office 365 ATP removes the Mail from all targeted Users
+
+![](/assets/images/scenario03/Scenario03_52.PNG "O365ATP soft delete")

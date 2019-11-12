@@ -16,27 +16,32 @@ nav_order: 2
 
 ---
 
-## Josef receives link to document
-Josef receives link to file from Maria and opens it in Word Desktop App.
+## Josef receives eMail
+Josef receives the same Mail, Maria received, but he is not protected by O365 ATP
 
-![](/assets/images/scenario06/Scenario06_05.PNG "Josef receives link to document")
+![](/assets/images/scenario03/Scenario03_40.PNG "Josef is able to see the Attachment")
 
-## No Sensitivity label applied
-Currently no Sensitivity label is applied in Word.
+## Josef is opening the Attachment
+Josef is opening the Attacment, and Excel is beeing started.
 
-![](/assets/images/scenario06/Scenario06_06.PNG "No Sensitivity label applied")
+![](/assets/images/scenario03/Scenario03_41.PNG "opening Attachment")
 
-## Sensitive content added
-Sensitive content (“Tannenbaum”) was added.
+## Excel Protected View
+Excel is beeing started in Protected View
 
-![](/assets/images/scenario06/Scenario06_07.PNG "Sensitive content added")
+![](/assets/images/scenario03/Scenario03_42.PNG "Excel Protected View")
 
-## Josef saves his edits
-Josef saves the file to his OneDrive for Business.
+## Excel Security Warning
+Excel is displaying a Security Warning
 
-![](/assets/images/scenario06/Scenario06_08.PNG "Josef saves his edits")
+![](/assets/images/scenario03/Scenario03_43.PNG "Excel Security Warning")
 
-## Automatic application of sensitivity label
-A sensitivity label was automatically applied and watermarks were added.
+## Excel Macro blocked
+Windows Defender AV comes to rescue, and blockes the Macro since it tried to run malicious content
 
-![](/assets/images/scenario06/Scenario06_09.PNG "Automatic application of sensitivity label")
+![](/assets/images/scenario03/Scenario03_44.PNG "WDAV blocking Macro")
+
+## Windows Defender AV displaying Alert
+An Alert is raised in Windows Defender AV
+
+![](/assets/images/scenario03/Scenario03_45.PNG "WDAV Alert")

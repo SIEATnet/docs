@@ -8,7 +8,7 @@ has_children: true
 
 # Malicious Attachment
 
-![](/assets/images/scenario06/Scenario06_01.PNG "Scenario 06")
+![](/assets/images/scenario03/Scenario03_35.PNG "Malicious Attachment")
 
 Label and encrypt documents and emails.
 

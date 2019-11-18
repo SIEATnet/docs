@@ -26,4 +26,4 @@ description: ""
 
 
 ## How we planned a refurbish
-![](/assets/images/planning.PNG "Planning Whiteboard")
+![](/assets/images/planning.png "Planning Whiteboard")

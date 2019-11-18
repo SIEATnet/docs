@@ -21,5 +21,9 @@ description: ""
 - "Introduction story" too time consuming
 - To much E-Mail ping-pong - not enough Teams Usage
 - Not enough E5 workloads in the demos
-- Very volatile knowhow of customers
+- Very different knowhow levels of customers
 </div>
+
+
+## How we planned a refurbish
+![](/assets/images/planning.PNG "Planning Whiteboard")

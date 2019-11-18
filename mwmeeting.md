@@ -1,8 +1,9 @@
 ---
 layout: default
 title: Modern Workplace Meeting, November 18th, 2019
-parent: Introduction
+// parent: Introduction
 nav_order: 1
+nav_exclude: true
 description: ""
 ---
 

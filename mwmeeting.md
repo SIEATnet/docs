@@ -33,11 +33,11 @@ description: ""
 
 ## SIEAT.net Refurbish
 <div class="code-example" markdown="1">
-- Updated [/personas.html](personas)
+- Updated [personas](/personas.html)
 - currently 12 updated "scenarios"
 - more E5 workloads
 - low E-mail, high Teams usage
-- better documentation & follow-up [/delivery.html](https://docs.sieat.net/delivery.html)
+- better documentation & follow-up [delivery](https://docs.sieat.net/delivery.html)
 - better flexibility
 - better update-ability
 - some ToDos left (to be done in January): even more scenarios, enhanced documentation, better storytelling, modernizing look & feel

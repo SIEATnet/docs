@@ -13,7 +13,7 @@ description: ""
 ## Look back
 <div class="code-example" markdown="1">
 - Delivery of seven SIEATs between April and November 2019
-- Following legacy (Spanish) presentation layout with Austrian salt
+- Following legacy (Spanish) presentation layout with Austrian salt (Maria & Josef)
 - Marvellous customer feedbacks "Vielen Dank!!", "Vielen Dank nochmal für den tollen Showcase und die ausführliche Präsentation zum Thema Information Security im Microsoft Umfeld.", "... den Nutzen dieser Lösungen möglichst rasch umsetzen", even with LinkedIn [posts](https://www.linkedin.com/posts/activity-6586193734059335680-Kvfg)
 </div>
 
@@ -33,10 +33,11 @@ description: ""
 
 ## SIEAT.net Refurbish
 <div class="code-example" markdown="1">
+- Updated [/personas.html](personas)
 - currently 12 updated "scenarios"
 - more E5 workloads
 - low E-mail, high Teams usage
-- better documentation & follow-up (https://docs.sieat.net)
+- better documentation & follow-up [/delivery.html](https://docs.sieat.net/delivery.html)
 - better flexibility
 - better update-ability
 - some ToDos left (to be done in January): even more scenarios, enhanced documentation, better storytelling, modernizing look & feel

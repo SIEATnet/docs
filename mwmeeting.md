@@ -8,7 +8,7 @@ search_exclude: true
 description: ""
 ---
 
-# Modern Workplace Meeting 18. Novemnber 2019
+# MW-Meeting 18. November 2019
 
 ## Look back
 <div class="code-example" markdown="1">
